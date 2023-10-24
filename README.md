@@ -58,7 +58,7 @@ To get started with TE Locker Management, follow these steps:
    npm start
 6.    Access the application in your web browser at `http://localhost:3000`.
 
-##Project Structure
+## Project Structure
 The TE Locker Management project has the following structure:
 
     src/ - Source code for the application.
