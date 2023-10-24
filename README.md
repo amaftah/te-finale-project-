@@ -66,13 +66,13 @@ The TE Locker Management project has the following structure:
     config/ - Configuration files.
     scripts/ - Helper scripts for development and deployment.
 
-##Deployment
+## Deployment
     To deploy TE Locker Management to a production environment, follow these steps:
 
     Set up a production server with Node.js and a database.
     Update the configuration files in the config/ directory with production settings.
     Build and deploy the front-end and back-end as per your server setup.
-##Licence
+## Licence
    This project is licensed under the MIT License.
 
    
